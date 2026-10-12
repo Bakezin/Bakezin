@@ -1,8 +1,8 @@
 
-<h1 align="center">Hi there 👋, I'm Alex</h1>
+<h1 align="center">Hi there 👋, I'm Dodger!</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding animation" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnV5ZDRhMnd3YTRqdTBlbWc2eDVhczBybHVvdXRxM3JkaTh5a2k1NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P8ef3Dkynk0xLx1h1T/giphy.gif" width="500" alt="Coding GIF" />
 </p>
 
 <h3 align="center">I'm Dodger. Let me introduce myself and my modest knowledge and skills.</h3>
@@ -13,15 +13,7 @@
 
 ---
 
-### 👨‍💻 About Me
-
-- 📚 Learning and improving my technical skills.
-- 💻 Interested in data analytics, programming, and automation.
-- 🚀 Exploring new tools and technologies.
-
----
-
-### 💻 Languages and Technologies
+### 📚 Currently working with:
 
 <p align="left">
   <a href="https://www.w3schools.com/sql/">
@@ -39,6 +31,13 @@
   <a href="https://learn.microsoft.com/en-us/power-query/">
     <img src="https://img.shields.io/badge/Power%20Query-2C8EBB?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" alt="Power Query" />
   </a>
+</p>
+
+---
+
+### 🎨 Also comfortable with:
+
+<p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   </a>
@@ -54,11 +53,14 @@
   <a href="https://www.postman.com/">
     <img src="https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST API" />
   </a>
+  <a href="https://git-scm.com/">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  </a>
 </p>
 
 ---
 
-### 🛠️ Tools
+### 🛠️ Tools:
 
 #### 💻 IDEs and Editors
 
