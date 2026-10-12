@@ -14,11 +14,39 @@
 - Learning new tools and improving my skills.
 - Exploring data, automation, and software development.
 
+
 ### Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,php,js,mysql,html,css,git,github,vscode" alt="Languages and tools" />
+  <a href="https://www.w3schools.com/sql/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql" alt="SQL" width="40" height="40" />
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40" />
+  </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" width="40" height="40" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="40" height="40" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="40" height="40" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="40" height="40" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40" />
+  </a>
+  <a href="https://restfulapi.net/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=postman" alt="REST API" width="40" height="40" />
+  </a>
+  <a href="https://www.json.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=json" alt="JSON" width="40" height="40" />
+  </a>
 </p>
+
 
 ### GitHub Stats
 
