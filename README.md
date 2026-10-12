@@ -5,8 +5,7 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnV5ZDRhMnd3YTRqdTBlbWc2eDVhczBybHVvdXRxM3JkaTh5a2k1NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P8ef3Dkynk0xLx1h1T/giphy.gif" width="500" alt="Coding GIF" />
 </p>
 
-<h3 align="center">I'm Alex. Let me introduce myself and my modest knowledge and skills.</h3>
-
+<h3 align="center">I'm [Alex](https://github.com/Bakezin). Let me introduce myself and my modest knowledge and skills.</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Bakezin&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
